@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.jazz321254.mongo.dto.QuestionResult;
 import com.jazz321254.mongo.dto.Result;
 import com.jazz321254.mongo.model.Subject;
 import com.jazz321254.mongo.service.QuestionService;
@@ -39,5 +40,11 @@ public class ApiController {
 	public List<Result> getUnitCount(@PathVariable(value = "subjectId") String subjectId) {
 		LOGGER.info(LOGGER_HEADER, "Fetch the number of unit question by subject id, subjectId: " + subjectId);
 		return questionService.findUnitQuestionBySubjectId(subjectId);
+	}
+
+	@GetMapping("/knowledges_question_amount/{subjectId}")
+	public List<QuestionResult> getQuestionDifficult(@PathVariable(value = "subjectId") String subjectId) {
+		LOGGER.info(LOGGER_HEADER, "Fetch the number of difficult question by subject id, subjectId: " + subjectId);
+		return questionService.findQuestionDifficultBySubjectId(subjectId);
 	}
 }
