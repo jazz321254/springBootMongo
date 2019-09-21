@@ -1,0 +1,3000 @@
+        {
+          "_id":"U_PC_1", "subject":"PC", 
+          "knowledge": ["PC_402","PC_435"],
+          "order": 1
+        }
+        {
+          "_id":"U_PC_2", "subject":"PC", 
+          "knowledge": ["PC_204"],
+          "order": 2
+        }
+        {
+          "_id":"U_PC_3", "subject":"PC", 
+          "knowledge": ["PC_277","PC_352"],
+          "order": 3
+        }
+        {
+          "_id":"U_PC_4", "subject":"PC", 
+          "knowledge": ["PC_459"],
+          "order": 4
+        }
+        {
+          "_id":"U_PC_5", "subject":"PC", 
+          "knowledge": ["PC_186"],
+          "order": 5
+        }
+        {
+          "_id":"U_PC_6", "subject":"PC", 
+          "knowledge": ["PC_457"],
+          "order": 6
+        }
+        {
+          "_id":"U_PC_7", "subject":"PC", 
+          "knowledge": ["PC_178","PC_200","PC_13"],
+          "order": 7
+        }
+        {
+          "_id":"U_PC_8", "subject":"PC", 
+          "knowledge": ["PC_26"],
+          "order": 8
+        }
+        {
+          "_id":"U_PC_9", "subject":"PC", 
+          "knowledge": ["PC_401","PC_17"],
+          "order": 9
+        }
+        {
+          "_id":"U_PC_10", "subject":"PC", 
+          "knowledge": ["PC_245","PC_481","PC_409"],
+          "order": 10
+        }
+        {
+          "_id":"U_PC_11", "subject":"PC", 
+          "knowledge": ["PC_437"],
+          "order": 11
+        }
+        {
+          "_id":"U_PC_12", "subject":"PC", 
+          "knowledge": ["PC_238"],
+          "order": 12
+        }
+        {
+          "_id":"U_PC_13", "subject":"PC", 
+          "knowledge": ["PC_492","PC_424","PC_141"],
+          "order": 13
+        }
+        {
+          "_id":"U_PC_14", "subject":"PC", 
+          "knowledge": ["PC_181","PC_410"],
+          "order": 14
+        }
+        {
+          "_id":"U_PC_15", "subject":"PC", 
+          "knowledge": ["PC_35"],
+          "order": 15
+        }
+        {
+          "_id":"U_PC_16", "subject":"PC", 
+          "knowledge": ["PC_440"],
+          "order": 16
+        }
+        {
+          "_id":"U_PC_17", "subject":"PC", 
+          "knowledge": ["PC_180"],
+          "order": 17
+        }
+        {
+          "_id":"U_PC_18", "subject":"PC", 
+          "knowledge": ["PC_94"],
+          "order": 18
+        }
+        {
+          "_id":"U_PC_19", "subject":"PC", 
+          "knowledge": ["PC_158","PC_480","PC_75"],
+          "order": 19
+        }
+        {
+          "_id":"U_PC_20", "subject":"PC", 
+          "knowledge": ["PC_254","PC_50","PC_287"],
+          "order": 20
+        }
+        {
+          "_id":"U_PC_21", "subject":"PC", 
+          "knowledge": ["PC_344","PC_28"],
+          "order": 21
+        }
+        {
+          "_id":"U_PC_22", "subject":"PC", 
+          "knowledge": ["PC_255","PC_497"],
+          "order": 22
+        }
+        {
+          "_id":"U_PC_23", "subject":"PC", 
+          "knowledge": ["PC_444"],
+          "order": 23
+        }
+        {
+          "_id":"U_PC_24", "subject":"PC", 
+          "knowledge": ["PC_104","PC_94","PC_352"],
+          "order": 24
+        }
+        {
+          "_id":"U_PC_25", "subject":"PC", 
+          "knowledge": ["PC_224","PC_121","PC_44"],
+          "order": 25
+        }
+        {
+          "_id":"U_PC_26", "subject":"PC", 
+          "knowledge": ["PC_103","PC_227","PC_31"],
+          "order": 26
+        }
+        {
+          "_id":"U_PC_27", "subject":"PC", 
+          "knowledge": ["PC_275","PC_23","PC_346"],
+          "order": 27
+        }
+        {
+          "_id":"U_PC_28", "subject":"PC", 
+          "knowledge": ["PC_116"],
+          "order": 28
+        }
+        {
+          "_id":"U_PC_29", "subject":"PC", 
+          "knowledge": ["PC_113"],
+          "order": 29
+        }
+        {
+          "_id":"U_PC_30", "subject":"PC", 
+          "knowledge": ["PC_208"],
+          "order": 30
+        }
+        {
+          "_id":"U_PC_31", "subject":"PC", 
+          "knowledge": ["PC_264","PC_120"],
+          "order": 31
+        }
+        {
+          "_id":"U_PC_32", "subject":"PC", 
+          "knowledge": ["PC_305","PC_365","PC_223"],
+          "order": 32
+        }
+        {
+          "_id":"U_PC_33", "subject":"PC", 
+          "knowledge": ["PC_409","PC_430","PC_474"],
+          "order": 33
+        }
+        {
+          "_id":"U_PC_34", "subject":"PC", 
+          "knowledge": ["PC_93"],
+          "order": 34
+        }
+        {
+          "_id":"U_PC_35", "subject":"PC", 
+          "knowledge": ["PC_284","PC_343","PC_152"],
+          "order": 35
+        }
+        {
+          "_id":"U_PC_36", "subject":"PC", 
+          "knowledge": ["PC_441"],
+          "order": 36
+        }
+        {
+          "_id":"U_PC_37", "subject":"PC", 
+          "knowledge": ["PC_413","PC_376"],
+          "order": 37
+        }
+        {
+          "_id":"U_PC_38", "subject":"PC", 
+          "knowledge": ["PC_270"],
+          "order": 38
+        }
+        {
+          "_id":"U_PC_39", "subject":"PC", 
+          "knowledge": ["PC_297","PC_67","PC_225"],
+          "order": 39
+        }
+        {
+          "_id":"U_PC_40", "subject":"PC", 
+          "knowledge": ["PC_228"],
+          "order": 40
+        }
+        {
+          "_id":"U_PC_41", "subject":"PC", 
+          "knowledge": ["PC_412","PC_399","PC_462"],
+          "order": 41
+        }
+        {
+          "_id":"U_PC_42", "subject":"PC", 
+          "knowledge": ["PC_218"],
+          "order": 42
+        }
+        {
+          "_id":"U_PC_43", "subject":"PC", 
+          "knowledge": ["PC_173","PC_498","PC_183"],
+          "order": 43
+        }
+        {
+          "_id":"U_PC_44", "subject":"PC", 
+          "knowledge": ["PC_151","PC_181","PC_24"],
+          "order": 44
+        }
+        {
+          "_id":"U_PC_45", "subject":"PC", 
+          "knowledge": ["PC_25","PC_199","PC_401"],
+          "order": 45
+        }
+        {
+          "_id":"U_PC_46", "subject":"PC", 
+          "knowledge": ["PC_164","PC_458","PC_124"],
+          "order": 46
+        }
+        {
+          "_id":"U_PC_47", "subject":"PC", 
+          "knowledge": ["PC_336","PC_402"],
+          "order": 47
+        }
+        {
+          "_id":"U_PC_48", "subject":"PC", 
+          "knowledge": ["PC_68","PC_46","PC_454"],
+          "order": 48
+        }
+        {
+          "_id":"U_PC_49", "subject":"PC", 
+          "knowledge": ["PC_258"],
+          "order": 49
+        }
+        {
+          "_id":"U_PC_50", "subject":"PC", 
+          "knowledge": ["PC_58","PC_465"],
+          "order": 50
+        }
+        {
+          "_id":"U_PC_51", "subject":"PC", 
+          "knowledge": ["PC_154","PC_134","PC_412"],
+          "order": 51
+        }
+        {
+          "_id":"U_PC_52", "subject":"PC", 
+          "knowledge": ["PC_427"],
+          "order": 52
+        }
+        {
+          "_id":"U_PC_53", "subject":"PC", 
+          "knowledge": ["PC_494","PC_5"],
+          "order": 53
+        }
+        {
+          "_id":"U_PC_54", "subject":"PC", 
+          "knowledge": ["PC_253","PC_296"],
+          "order": 54
+        }
+        {
+          "_id":"U_PC_55", "subject":"PC", 
+          "knowledge": ["PC_433"],
+          "order": 55
+        }
+        {
+          "_id":"U_PC_56", "subject":"PC", 
+          "knowledge": ["PC_190"],
+          "order": 56
+        }
+        {
+          "_id":"U_PC_57", "subject":"PC", 
+          "knowledge": ["PC_128","PC_97"],
+          "order": 57
+        }
+        {
+          "_id":"U_PC_58", "subject":"PC", 
+          "knowledge": ["PC_76"],
+          "order": 58
+        }
+        {
+          "_id":"U_PC_59", "subject":"PC", 
+          "knowledge": ["PC_137","PC_498"],
+          "order": 59
+        }
+        {
+          "_id":"U_PC_60", "subject":"PC", 
+          "knowledge": ["PC_371"],
+          "order": 60
+        }
+        {
+          "_id":"U_PC_61", "subject":"PC", 
+          "knowledge": ["PC_147","PC_455","PC_382"],
+          "order": 61
+        }
+        {
+          "_id":"U_PC_62", "subject":"PC", 
+          "knowledge": ["PC_285"],
+          "order": 62
+        }
+        {
+          "_id":"U_PC_63", "subject":"PC", 
+          "knowledge": ["PC_199","PC_5","PC_419"],
+          "order": 63
+        }
+        {
+          "_id":"U_PC_64", "subject":"PC", 
+          "knowledge": ["PC_447","PC_344"],
+          "order": 64
+        }
+        {
+          "_id":"U_PC_65", "subject":"PC", 
+          "knowledge": ["PC_3","PC_358","PC_195"],
+          "order": 65
+        }
+        {
+          "_id":"U_PC_66", "subject":"PC", 
+          "knowledge": ["PC_413"],
+          "order": 66
+        }
+        {
+          "_id":"U_PC_67", "subject":"PC", 
+          "knowledge": ["PC_172"],
+          "order": 67
+        }
+        {
+          "_id":"U_PC_68", "subject":"PC", 
+          "knowledge": ["PC_302","PC_135"],
+          "order": 68
+        }
+        {
+          "_id":"U_PC_69", "subject":"PC", 
+          "knowledge": ["PC_214"],
+          "order": 69
+        }
+        {
+          "_id":"U_PC_70", "subject":"PC", 
+          "knowledge": ["PC_426","PC_45"],
+          "order": 70
+        }
+        {
+          "_id":"U_PC_71", "subject":"PC", 
+          "knowledge": ["PC_203","PC_55"],
+          "order": 71
+        }
+        {
+          "_id":"U_PC_72", "subject":"PC", 
+          "knowledge": ["PC_267"],
+          "order": 72
+        }
+        {
+          "_id":"U_PC_73", "subject":"PC", 
+          "knowledge": ["PC_438","PC_278"],
+          "order": 73
+        }
+        {
+          "_id":"U_PC_74", "subject":"PC", 
+          "knowledge": ["PC_193","PC_12","PC_313"],
+          "order": 74
+        }
+        {
+          "_id":"U_PC_75", "subject":"PC", 
+          "knowledge": ["PC_451","PC_420","PC_196"],
+          "order": 75
+        }
+        {
+          "_id":"U_PC_76", "subject":"PC", 
+          "knowledge": ["PC_71"],
+          "order": 76
+        }
+        {
+          "_id":"U_PC_77", "subject":"PC", 
+          "knowledge": ["PC_259","PC_417","PC_202"],
+          "order": 77
+        }
+        {
+          "_id":"U_PC_78", "subject":"PC", 
+          "knowledge": ["PC_122"],
+          "order": 78
+        }
+        {
+          "_id":"U_PC_79", "subject":"PC", 
+          "knowledge": ["PC_82","PC_363"],
+          "order": 79
+        }
+        {
+          "_id":"U_PC_80", "subject":"PC", 
+          "knowledge": ["PC_391","PC_29","PC_258"],
+          "order": 80
+        }
+        {
+          "_id":"U_PC_81", "subject":"PC", 
+          "knowledge": ["PC_76","PC_261","PC_209"],
+          "order": 81
+        }
+        {
+          "_id":"U_PC_82", "subject":"PC", 
+          "knowledge": ["PC_143","PC_150","PC_377"],
+          "order": 82
+        }
+        {
+          "_id":"U_PC_83", "subject":"PC", 
+          "knowledge": ["PC_384"],
+          "order": 83
+        }
+        {
+          "_id":"U_PC_84", "subject":"PC", 
+          "knowledge": ["PC_431","PC_95","PC_261"],
+          "order": 84
+        }
+        {
+          "_id":"U_PC_85", "subject":"PC", 
+          "knowledge": ["PC_6"],
+          "order": 85
+        }
+        {
+          "_id":"U_PC_86", "subject":"PC", 
+          "knowledge": ["PC_419","PC_437"],
+          "order": 86
+        }
+        {
+          "_id":"U_PC_87", "subject":"PC", 
+          "knowledge": ["PC_100"],
+          "order": 87
+        }
+        {
+          "_id":"U_PC_88", "subject":"PC", 
+          "knowledge": ["PC_175","PC_330"],
+          "order": 88
+        }
+        {
+          "_id":"U_PC_89", "subject":"PC", 
+          "knowledge": ["PC_83"],
+          "order": 89
+        }
+        {
+          "_id":"U_PC_90", "subject":"PC", 
+          "knowledge": ["PC_381"],
+          "order": 90
+        }
+        {
+          "_id":"U_PC_91", "subject":"PC", 
+          "knowledge": ["PC_18"],
+          "order": 91
+        }
+        {
+          "_id":"U_PC_92", "subject":"PC", 
+          "knowledge": ["PC_439","PC_481"],
+          "order": 92
+        }
+        {
+          "_id":"U_PC_93", "subject":"PC", 
+          "knowledge": ["PC_5","PC_305","PC_312"],
+          "order": 93
+        }
+        {
+          "_id":"U_PC_94", "subject":"PC", 
+          "knowledge": ["PC_13"],
+          "order": 94
+        }
+        {
+          "_id":"U_PC_95", "subject":"PC", 
+          "knowledge": ["PC_464","PC_178","PC_77"],
+          "order": 95
+        }
+        {
+          "_id":"U_PC_96", "subject":"PC", 
+          "knowledge": ["PC_192","PC_248","PC_430"],
+          "order": 96
+        }
+        {
+          "_id":"U_PC_97", "subject":"PC", 
+          "knowledge": ["PC_482"],
+          "order": 97
+        }
+        {
+          "_id":"U_PC_98", "subject":"PC", 
+          "knowledge": ["PC_211"],
+          "order": 98
+        }
+        {
+          "_id":"U_PC_99", "subject":"PC", 
+          "knowledge": ["PC_428","PC_439","PC_109"],
+          "order": 99
+        }
+        {
+          "_id":"U_PC_100", "subject":"PC", 
+          "knowledge": ["PC_122"],
+          "order": 100
+        }
+        {
+          "_id":"U_PC_101", "subject":"PC", 
+          "knowledge": ["PC_447"],
+          "order": 101
+        }
+        {
+          "_id":"U_PC_102", "subject":"PC", 
+          "knowledge": ["PC_417"],
+          "order": 102
+        }
+        {
+          "_id":"U_PC_103", "subject":"PC", 
+          "knowledge": ["PC_379"],
+          "order": 103
+        }
+        {
+          "_id":"U_PC_104", "subject":"PC", 
+          "knowledge": ["PC_145","PC_137","PC_227"],
+          "order": 104
+        }
+        {
+          "_id":"U_PC_105", "subject":"PC", 
+          "knowledge": ["PC_422","PC_147","PC_415"],
+          "order": 105
+        }
+        {
+          "_id":"U_PC_106", "subject":"PC", 
+          "knowledge": ["PC_458","PC_50"],
+          "order": 106
+        }
+        {
+          "_id":"U_PC_107", "subject":"PC", 
+          "knowledge": ["PC_354","PC_76"],
+          "order": 107
+        }
+        {
+          "_id":"U_PC_108", "subject":"PC", 
+          "knowledge": ["PC_445","PC_453","PC_482"],
+          "order": 108
+        }
+        {
+          "_id":"U_PC_109", "subject":"PC", 
+          "knowledge": ["PC_32","PC_260","PC_34"],
+          "order": 109
+        }
+        {
+          "_id":"U_PC_110", "subject":"PC", 
+          "knowledge": ["PC_15","PC_426","PC_349"],
+          "order": 110
+        }
+        {
+          "_id":"U_PC_111", "subject":"PC", 
+          "knowledge": ["PC_269"],
+          "order": 111
+        }
+        {
+          "_id":"U_PC_112", "subject":"PC", 
+          "knowledge": ["PC_423","PC_71","PC_207"],
+          "order": 112
+        }
+        {
+          "_id":"U_PC_113", "subject":"PC", 
+          "knowledge": ["PC_159","PC_288","PC_229"],
+          "order": 113
+        }
+        {
+          "_id":"U_PC_114", "subject":"PC", 
+          "knowledge": ["PC_495"],
+          "order": 114
+        }
+        {
+          "_id":"U_PC_115", "subject":"PC", 
+          "knowledge": ["PC_98"],
+          "order": 115
+        }
+        {
+          "_id":"U_PC_116", "subject":"PC", 
+          "knowledge": ["PC_257","PC_101"],
+          "order": 116
+        }
+        {
+          "_id":"U_PC_117", "subject":"PC", 
+          "knowledge": ["PC_33"],
+          "order": 117
+        }
+        {
+          "_id":"U_PC_118", "subject":"PC", 
+          "knowledge": ["PC_353"],
+          "order": 118
+        }
+        {
+          "_id":"U_PC_119", "subject":"PC", 
+          "knowledge": ["PC_273","PC_97","PC_482"],
+          "order": 119
+        }
+        {
+          "_id":"U_PC_120", "subject":"PC", 
+          "knowledge": ["PC_216","PC_435"],
+          "order": 120
+        }
+        {
+          "_id":"U_PC_121", "subject":"PC", 
+          "knowledge": ["PC_34","PC_285","PC_115"],
+          "order": 121
+        }
+        {
+          "_id":"U_PC_122", "subject":"PC", 
+          "knowledge": ["PC_252"],
+          "order": 122
+        }
+        {
+          "_id":"U_PC_123", "subject":"PC", 
+          "knowledge": ["PC_387"],
+          "order": 123
+        }
+        {
+          "_id":"U_PC_124", "subject":"PC", 
+          "knowledge": ["PC_261","PC_12","PC_256"],
+          "order": 124
+        }
+        {
+          "_id":"U_PC_125", "subject":"PC", 
+          "knowledge": ["PC_6","PC_402","PC_436"],
+          "order": 125
+        }
+        {
+          "_id":"U_PC_126", "subject":"PC", 
+          "knowledge": ["PC_334","PC_211"],
+          "order": 126
+        }
+        {
+          "_id":"U_PC_127", "subject":"PC", 
+          "knowledge": ["PC_141","PC_384"],
+          "order": 127
+        }
+        {
+          "_id":"U_PC_128", "subject":"PC", 
+          "knowledge": ["PC_469","PC_106"],
+          "order": 128
+        }
+        {
+          "_id":"U_PC_129", "subject":"PC", 
+          "knowledge": ["PC_364","PC_44","PC_418"],
+          "order": 129
+        }
+        {
+          "_id":"U_PC_130", "subject":"PC", 
+          "knowledge": ["PC_21"],
+          "order": 130
+        }
+        {
+          "_id":"U_PC_131", "subject":"PC", 
+          "knowledge": ["PC_411","PC_329"],
+          "order": 131
+        }
+        {
+          "_id":"U_PC_132", "subject":"PC", 
+          "knowledge": ["PC_472","PC_373","PC_320"],
+          "order": 132
+        }
+        {
+          "_id":"U_PC_133", "subject":"PC", 
+          "knowledge": ["PC_302","PC_30","PC_142"],
+          "order": 133
+        }
+        {
+          "_id":"U_PC_134", "subject":"PC", 
+          "knowledge": ["PC_147","PC_288"],
+          "order": 134
+        }
+        {
+          "_id":"U_PC_135", "subject":"PC", 
+          "knowledge": ["PC_132","PC_444","PC_343"],
+          "order": 135
+        }
+        {
+          "_id":"U_PC_136", "subject":"PC", 
+          "knowledge": ["PC_425"],
+          "order": 136
+        }
+        {
+          "_id":"U_PC_137", "subject":"PC", 
+          "knowledge": ["PC_466","PC_470","PC_361"],
+          "order": 137
+        }
+        {
+          "_id":"U_PC_138", "subject":"PC", 
+          "knowledge": ["PC_220","PC_61","PC_322"],
+          "order": 138
+        }
+        {
+          "_id":"U_PC_139", "subject":"PC", 
+          "knowledge": ["PC_284","PC_455","PC_237"],
+          "order": 139
+        }
+        {
+          "_id":"U_PC_140", "subject":"PC", 
+          "knowledge": ["PC_471","PC_311","PC_209"],
+          "order": 140
+        }
+        {
+          "_id":"U_PC_141", "subject":"PC", 
+          "knowledge": ["PC_208"],
+          "order": 141
+        }
+        {
+          "_id":"U_PC_142", "subject":"PC", 
+          "knowledge": ["PC_388","PC_138"],
+          "order": 142
+        }
+        {
+          "_id":"U_PC_143", "subject":"PC", 
+          "knowledge": ["PC_65"],
+          "order": 143
+        }
+        {
+          "_id":"U_PC_144", "subject":"PC", 
+          "knowledge": ["PC_378","PC_480"],
+          "order": 144
+        }
+        {
+          "_id":"U_PC_145", "subject":"PC", 
+          "knowledge": ["PC_484"],
+          "order": 145
+        }
+        {
+          "_id":"U_PC_146", "subject":"PC", 
+          "knowledge": ["PC_458"],
+          "order": 146
+        }
+        {
+          "_id":"U_PC_147", "subject":"PC", 
+          "knowledge": ["PC_317","PC_133","PC_129"],
+          "order": 147
+        }
+        {
+          "_id":"U_PC_148", "subject":"PC", 
+          "knowledge": ["PC_205"],
+          "order": 148
+        }
+        {
+          "_id":"U_PC_149", "subject":"PC", 
+          "knowledge": ["PC_270","PC_67","PC_500"],
+          "order": 149
+        }
+        {
+          "_id":"U_PC_150", "subject":"PC", 
+          "knowledge": ["PC_494","PC_244"],
+          "order": 150
+        }
+        {
+          "_id":"U_PC_151", "subject":"PC", 
+          "knowledge": ["PC_469"],
+          "order": 151
+        }
+        {
+          "_id":"U_PC_152", "subject":"PC", 
+          "knowledge": ["PC_123"],
+          "order": 152
+        }
+        {
+          "_id":"U_PC_153", "subject":"PC", 
+          "knowledge": ["PC_182","PC_357"],
+          "order": 153
+        }
+        {
+          "_id":"U_PC_154", "subject":"PC", 
+          "knowledge": ["PC_474","PC_426"],
+          "order": 154
+        }
+        {
+          "_id":"U_PC_155", "subject":"PC", 
+          "knowledge": ["PC_96","PC_297"],
+          "order": 155
+        }
+        {
+          "_id":"U_PC_156", "subject":"PC", 
+          "knowledge": ["PC_392"],
+          "order": 156
+        }
+        {
+          "_id":"U_PC_157", "subject":"PC", 
+          "knowledge": ["PC_68","PC_286"],
+          "order": 157
+        }
+        {
+          "_id":"U_PC_158", "subject":"PC", 
+          "knowledge": ["PC_429","PC_50","PC_295"],
+          "order": 158
+        }
+        {
+          "_id":"U_PC_159", "subject":"PC", 
+          "knowledge": ["PC_159"],
+          "order": 159
+        }
+        {
+          "_id":"U_PC_160", "subject":"PC", 
+          "knowledge": ["PC_292","PC_23"],
+          "order": 160
+        }
+        {
+          "_id":"U_PC_161", "subject":"PC", 
+          "knowledge": ["PC_212"],
+          "order": 161
+        }
+        {
+          "_id":"U_PC_162", "subject":"PC", 
+          "knowledge": ["PC_254"],
+          "order": 162
+        }
+        {
+          "_id":"U_PC_163", "subject":"PC", 
+          "knowledge": ["PC_203","PC_417","PC_80"],
+          "order": 163
+        }
+        {
+          "_id":"U_PC_164", "subject":"PC", 
+          "knowledge": ["PC_71"],
+          "order": 164
+        }
+        {
+          "_id":"U_PC_165", "subject":"PC", 
+          "knowledge": ["PC_363"],
+          "order": 165
+        }
+        {
+          "_id":"U_PC_166", "subject":"PC", 
+          "knowledge": ["PC_170","PC_64"],
+          "order": 166
+        }
+        {
+          "_id":"U_PC_167", "subject":"PC", 
+          "knowledge": ["PC_489"],
+          "order": 167
+        }
+        {
+          "_id":"U_PC_168", "subject":"PC", 
+          "knowledge": ["PC_379","PC_404"],
+          "order": 168
+        }
+        {
+          "_id":"U_PC_169", "subject":"PC", 
+          "knowledge": ["PC_223","PC_51","PC_312"],
+          "order": 169
+        }
+        {
+          "_id":"U_PC_170", "subject":"PC", 
+          "knowledge": ["PC_380"],
+          "order": 170
+        }
+        {
+          "_id":"U_PC_171", "subject":"PC", 
+          "knowledge": ["PC_459"],
+          "order": 171
+        }
+        {
+          "_id":"U_PC_172", "subject":"PC", 
+          "knowledge": ["PC_348","PC_35","PC_425"],
+          "order": 172
+        }
+        {
+          "_id":"U_PC_173", "subject":"PC", 
+          "knowledge": ["PC_46"],
+          "order": 173
+        }
+        {
+          "_id":"U_PC_174", "subject":"PC", 
+          "knowledge": ["PC_171","PC_362"],
+          "order": 174
+        }
+        {
+          "_id":"U_PC_175", "subject":"PC", 
+          "knowledge": ["PC_448"],
+          "order": 175
+        }
+        {
+          "_id":"U_PC_176", "subject":"PC", 
+          "knowledge": ["PC_435","PC_402"],
+          "order": 176
+        }
+        {
+          "_id":"U_PC_177", "subject":"PC", 
+          "knowledge": ["PC_307"],
+          "order": 177
+        }
+        {
+          "_id":"U_PC_178", "subject":"PC", 
+          "knowledge": ["PC_143"],
+          "order": 178
+        }
+        {
+          "_id":"U_PC_179", "subject":"PC", 
+          "knowledge": ["PC_254","PC_84"],
+          "order": 179
+        }
+        {
+          "_id":"U_PC_180", "subject":"PC", 
+          "knowledge": ["PC_152","PC_274"],
+          "order": 180
+        }
+        {
+          "_id":"U_PC_181", "subject":"PC", 
+          "knowledge": ["PC_14","PC_202","PC_216"],
+          "order": 181
+        }
+        {
+          "_id":"U_PC_182", "subject":"PC", 
+          "knowledge": ["PC_242"],
+          "order": 182
+        }
+        {
+          "_id":"U_PC_183", "subject":"PC", 
+          "knowledge": ["PC_2"],
+          "order": 183
+        }
+        {
+          "_id":"U_PC_184", "subject":"PC", 
+          "knowledge": ["PC_450","PC_460","PC_199"],
+          "order": 184
+        }
+        {
+          "_id":"U_PC_185", "subject":"PC", 
+          "knowledge": ["PC_412","PC_189","PC_268"],
+          "order": 185
+        }
+        {
+          "_id":"U_PC_186", "subject":"PC", 
+          "knowledge": ["PC_441","PC_404","PC_469"],
+          "order": 186
+        }
+        {
+          "_id":"U_PC_187", "subject":"PC", 
+          "knowledge": ["PC_61"],
+          "order": 187
+        }
+        {
+          "_id":"U_PC_188", "subject":"PC", 
+          "knowledge": ["PC_398","PC_180"],
+          "order": 188
+        }
+        {
+          "_id":"U_PC_189", "subject":"PC", 
+          "knowledge": ["PC_289","PC_329"],
+          "order": 189
+        }
+        {
+          "_id":"U_PC_190", "subject":"PC", 
+          "knowledge": ["PC_184"],
+          "order": 190
+        }
+        {
+          "_id":"U_PC_191", "subject":"PC", 
+          "knowledge": ["PC_7","PC_258"],
+          "order": 191
+        }
+        {
+          "_id":"U_PC_192", "subject":"PC", 
+          "knowledge": ["PC_38","PC_166","PC_127"],
+          "order": 192
+        }
+        {
+          "_id":"U_PC_193", "subject":"PC", 
+          "knowledge": ["PC_166","PC_497","PC_101"],
+          "order": 193
+        }
+        {
+          "_id":"U_PC_194", "subject":"PC", 
+          "knowledge": ["PC_246","PC_466"],
+          "order": 194
+        }
+        {
+          "_id":"U_PC_195", "subject":"PC", 
+          "knowledge": ["PC_37"],
+          "order": 195
+        }
+        {
+          "_id":"U_PC_196", "subject":"PC", 
+          "knowledge": ["PC_447"],
+          "order": 196
+        }
+        {
+          "_id":"U_PC_197", "subject":"PC", 
+          "knowledge": ["PC_244","PC_481","PC_266"],
+          "order": 197
+        }
+        {
+          "_id":"U_PC_198", "subject":"PC", 
+          "knowledge": ["PC_429","PC_325"],
+          "order": 198
+        }
+        {
+          "_id":"U_PC_199", "subject":"PC", 
+          "knowledge": ["PC_338"],
+          "order": 199
+        }
+        {
+          "_id":"U_PC_200", "subject":"PC", 
+          "knowledge": ["PC_42"],
+          "order": 200
+        }
+        {
+          "_id":"U_MA_1", "subject":"MA", 
+          "knowledge": ["MA_236"],
+          "order": 1
+        }
+        {
+          "_id":"U_MA_2", "subject":"MA", 
+          "knowledge": ["MA_352","MA_296"],
+          "order": 2
+        }
+        {
+          "_id":"U_MA_3", "subject":"MA", 
+          "knowledge": ["MA_401"],
+          "order": 3
+        }
+        {
+          "_id":"U_MA_4", "subject":"MA", 
+          "knowledge": ["MA_236"],
+          "order": 4
+        }
+        {
+          "_id":"U_MA_5", "subject":"MA", 
+          "knowledge": ["MA_181"],
+          "order": 5
+        }
+        {
+          "_id":"U_MA_6", "subject":"MA", 
+          "knowledge": ["MA_213","MA_117"],
+          "order": 6
+        }
+        {
+          "_id":"U_MA_7", "subject":"MA", 
+          "knowledge": ["MA_169","MA_140","MA_468"],
+          "order": 7
+        }
+        {
+          "_id":"U_MA_8", "subject":"MA", 
+          "knowledge": ["MA_187","MA_184"],
+          "order": 8
+        }
+        {
+          "_id":"U_MA_9", "subject":"MA", 
+          "knowledge": ["MA_196","MA_101","MA_223"],
+          "order": 9
+        }
+        {
+          "_id":"U_MA_10", "subject":"MA", 
+          "knowledge": ["MA_46"],
+          "order": 10
+        }
+        {
+          "_id":"U_MA_11", "subject":"MA", 
+          "knowledge": ["MA_234","MA_157"],
+          "order": 11
+        }
+        {
+          "_id":"U_MA_12", "subject":"MA", 
+          "knowledge": ["MA_156"],
+          "order": 12
+        }
+        {
+          "_id":"U_MA_13", "subject":"MA", 
+          "knowledge": ["MA_488","MA_35"],
+          "order": 13
+        }
+        {
+          "_id":"U_MA_14", "subject":"MA", 
+          "knowledge": ["MA_388","MA_201","MA_396"],
+          "order": 14
+        }
+        {
+          "_id":"U_MA_15", "subject":"MA", 
+          "knowledge": ["MA_280"],
+          "order": 15
+        }
+        {
+          "_id":"U_MA_16", "subject":"MA", 
+          "knowledge": ["MA_62","MA_229","MA_250"],
+          "order": 16
+        }
+        {
+          "_id":"U_MA_17", "subject":"MA", 
+          "knowledge": ["MA_48"],
+          "order": 17
+        }
+        {
+          "_id":"U_MA_18", "subject":"MA", 
+          "knowledge": ["MA_500"],
+          "order": 18
+        }
+        {
+          "_id":"U_MA_19", "subject":"MA", 
+          "knowledge": ["MA_201","MA_32","MA_54"],
+          "order": 19
+        }
+        {
+          "_id":"U_MA_20", "subject":"MA", 
+          "knowledge": ["MA_323","MA_419","MA_199"],
+          "order": 20
+        }
+        {
+          "_id":"U_MA_21", "subject":"MA", 
+          "knowledge": ["MA_281","MA_369"],
+          "order": 21
+        }
+        {
+          "_id":"U_MA_22", "subject":"MA", 
+          "knowledge": ["MA_454"],
+          "order": 22
+        }
+        {
+          "_id":"U_MA_23", "subject":"MA", 
+          "knowledge": ["MA_484","MA_238","MA_136"],
+          "order": 23
+        }
+        {
+          "_id":"U_MA_24", "subject":"MA", 
+          "knowledge": ["MA_208"],
+          "order": 24
+        }
+        {
+          "_id":"U_MA_25", "subject":"MA", 
+          "knowledge": ["MA_40"],
+          "order": 25
+        }
+        {
+          "_id":"U_MA_26", "subject":"MA", 
+          "knowledge": ["MA_428","MA_173","MA_393"],
+          "order": 26
+        }
+        {
+          "_id":"U_MA_27", "subject":"MA", 
+          "knowledge": ["MA_428"],
+          "order": 27
+        }
+        {
+          "_id":"U_MA_28", "subject":"MA", 
+          "knowledge": ["MA_292"],
+          "order": 28
+        }
+        {
+          "_id":"U_MA_29", "subject":"MA", 
+          "knowledge": ["MA_22","MA_463"],
+          "order": 29
+        }
+        {
+          "_id":"U_MA_30", "subject":"MA", 
+          "knowledge": ["MA_383"],
+          "order": 30
+        }
+        {
+          "_id":"U_MA_31", "subject":"MA", 
+          "knowledge": ["MA_353","MA_163","MA_145"],
+          "order": 31
+        }
+        {
+          "_id":"U_MA_32", "subject":"MA", 
+          "knowledge": ["MA_234","MA_278","MA_283"],
+          "order": 32
+        }
+        {
+          "_id":"U_MA_33", "subject":"MA", 
+          "knowledge": ["MA_109","MA_91","MA_426"],
+          "order": 33
+        }
+        {
+          "_id":"U_MA_34", "subject":"MA", 
+          "knowledge": ["MA_73","MA_237","MA_343"],
+          "order": 34
+        }
+        {
+          "_id":"U_MA_35", "subject":"MA", 
+          "knowledge": ["MA_41"],
+          "order": 35
+        }
+        {
+          "_id":"U_MA_36", "subject":"MA", 
+          "knowledge": ["MA_305"],
+          "order": 36
+        }
+        {
+          "_id":"U_MA_37", "subject":"MA", 
+          "knowledge": ["MA_5"],
+          "order": 37
+        }
+        {
+          "_id":"U_MA_38", "subject":"MA", 
+          "knowledge": ["MA_64","MA_99","MA_147"],
+          "order": 38
+        }
+        {
+          "_id":"U_MA_39", "subject":"MA", 
+          "knowledge": ["MA_77"],
+          "order": 39
+        }
+        {
+          "_id":"U_MA_40", "subject":"MA", 
+          "knowledge": ["MA_123"],
+          "order": 40
+        }
+        {
+          "_id":"U_MA_41", "subject":"MA", 
+          "knowledge": ["MA_139","MA_117"],
+          "order": 41
+        }
+        {
+          "_id":"U_MA_42", "subject":"MA", 
+          "knowledge": ["MA_278","MA_205"],
+          "order": 42
+        }
+        {
+          "_id":"U_MA_43", "subject":"MA", 
+          "knowledge": ["MA_311","MA_489"],
+          "order": 43
+        }
+        {
+          "_id":"U_MA_44", "subject":"MA", 
+          "knowledge": ["MA_370","MA_12"],
+          "order": 44
+        }
+        {
+          "_id":"U_MA_45", "subject":"MA", 
+          "knowledge": ["MA_341"],
+          "order": 45
+        }
+        {
+          "_id":"U_MA_46", "subject":"MA", 
+          "knowledge": ["MA_16","MA_409","MA_466"],
+          "order": 46
+        }
+        {
+          "_id":"U_MA_47", "subject":"MA", 
+          "knowledge": ["MA_459","MA_271","MA_398"],
+          "order": 47
+        }
+        {
+          "_id":"U_MA_48", "subject":"MA", 
+          "knowledge": ["MA_4","MA_134","MA_493"],
+          "order": 48
+        }
+        {
+          "_id":"U_MA_49", "subject":"MA", 
+          "knowledge": ["MA_379","MA_116","MA_144"],
+          "order": 49
+        }
+        {
+          "_id":"U_MA_50", "subject":"MA", 
+          "knowledge": ["MA_337","MA_408"],
+          "order": 50
+        }
+        {
+          "_id":"U_MA_51", "subject":"MA", 
+          "knowledge": ["MA_78","MA_220"],
+          "order": 51
+        }
+        {
+          "_id":"U_MA_52", "subject":"MA", 
+          "knowledge": ["MA_320"],
+          "order": 52
+        }
+        {
+          "_id":"U_MA_53", "subject":"MA", 
+          "knowledge": ["MA_288","MA_293","MA_48"],
+          "order": 53
+        }
+        {
+          "_id":"U_MA_54", "subject":"MA", 
+          "knowledge": ["MA_121","MA_116"],
+          "order": 54
+        }
+        {
+          "_id":"U_MA_55", "subject":"MA", 
+          "knowledge": ["MA_269","MA_336"],
+          "order": 55
+        }
+        {
+          "_id":"U_MA_56", "subject":"MA", 
+          "knowledge": ["MA_219","MA_409"],
+          "order": 56
+        }
+        {
+          "_id":"U_MA_57", "subject":"MA", 
+          "knowledge": ["MA_460","MA_105","MA_297"],
+          "order": 57
+        }
+        {
+          "_id":"U_MA_58", "subject":"MA", 
+          "knowledge": ["MA_326"],
+          "order": 58
+        }
+        {
+          "_id":"U_MA_59", "subject":"MA", 
+          "knowledge": ["MA_444","MA_142","MA_462"],
+          "order": 59
+        }
+        {
+          "_id":"U_MA_60", "subject":"MA", 
+          "knowledge": ["MA_346"],
+          "order": 60
+        }
+        {
+          "_id":"U_MA_61", "subject":"MA", 
+          "knowledge": ["MA_491","MA_433"],
+          "order": 61
+        }
+        {
+          "_id":"U_MA_62", "subject":"MA", 
+          "knowledge": ["MA_246","MA_109"],
+          "order": 62
+        }
+        {
+          "_id":"U_MA_63", "subject":"MA", 
+          "knowledge": ["MA_307","MA_317"],
+          "order": 63
+        }
+        {
+          "_id":"U_MA_64", "subject":"MA", 
+          "knowledge": ["MA_50"],
+          "order": 64
+        }
+        {
+          "_id":"U_MA_65", "subject":"MA", 
+          "knowledge": ["MA_240","MA_6"],
+          "order": 65
+        }
+        {
+          "_id":"U_MA_66", "subject":"MA", 
+          "knowledge": ["MA_251","MA_338"],
+          "order": 66
+        }
+        {
+          "_id":"U_MA_67", "subject":"MA", 
+          "knowledge": ["MA_465","MA_242"],
+          "order": 67
+        }
+        {
+          "_id":"U_MA_68", "subject":"MA", 
+          "knowledge": ["MA_162","MA_175"],
+          "order": 68
+        }
+        {
+          "_id":"U_MA_69", "subject":"MA", 
+          "knowledge": ["MA_386","MA_412"],
+          "order": 69
+        }
+        {
+          "_id":"U_MA_70", "subject":"MA", 
+          "knowledge": ["MA_235","MA_122","MA_254"],
+          "order": 70
+        }
+        {
+          "_id":"U_MA_71", "subject":"MA", 
+          "knowledge": ["MA_289","MA_297","MA_353"],
+          "order": 71
+        }
+        {
+          "_id":"U_MA_72", "subject":"MA", 
+          "knowledge": ["MA_409","MA_263"],
+          "order": 72
+        }
+        {
+          "_id":"U_MA_73", "subject":"MA", 
+          "knowledge": ["MA_268","MA_413","MA_83"],
+          "order": 73
+        }
+        {
+          "_id":"U_MA_74", "subject":"MA", 
+          "knowledge": ["MA_278","MA_26"],
+          "order": 74
+        }
+        {
+          "_id":"U_MA_75", "subject":"MA", 
+          "knowledge": ["MA_347","MA_493","MA_236"],
+          "order": 75
+        }
+        {
+          "_id":"U_MA_76", "subject":"MA", 
+          "knowledge": ["MA_193","MA_475"],
+          "order": 76
+        }
+        {
+          "_id":"U_MA_77", "subject":"MA", 
+          "knowledge": ["MA_267"],
+          "order": 77
+        }
+        {
+          "_id":"U_MA_78", "subject":"MA", 
+          "knowledge": ["MA_94"],
+          "order": 78
+        }
+        {
+          "_id":"U_MA_79", "subject":"MA", 
+          "knowledge": ["MA_442"],
+          "order": 79
+        }
+        {
+          "_id":"U_MA_80", "subject":"MA", 
+          "knowledge": ["MA_439"],
+          "order": 80
+        }
+        {
+          "_id":"U_MA_81", "subject":"MA", 
+          "knowledge": ["MA_468","MA_29"],
+          "order": 81
+        }
+        {
+          "_id":"U_MA_82", "subject":"MA", 
+          "knowledge": ["MA_490","MA_150"],
+          "order": 82
+        }
+        {
+          "_id":"U_MA_83", "subject":"MA", 
+          "knowledge": ["MA_165","MA_196"],
+          "order": 83
+        }
+        {
+          "_id":"U_MA_84", "subject":"MA", 
+          "knowledge": ["MA_6","MA_426"],
+          "order": 84
+        }
+        {
+          "_id":"U_MA_85", "subject":"MA", 
+          "knowledge": ["MA_498","MA_186","MA_176"],
+          "order": 85
+        }
+        {
+          "_id":"U_MA_86", "subject":"MA", 
+          "knowledge": ["MA_442"],
+          "order": 86
+        }
+        {
+          "_id":"U_MA_87", "subject":"MA", 
+          "knowledge": ["MA_486","MA_302","MA_485"],
+          "order": 87
+        }
+        {
+          "_id":"U_MA_88", "subject":"MA", 
+          "knowledge": ["MA_469","MA_486","MA_90"],
+          "order": 88
+        }
+        {
+          "_id":"U_MA_89", "subject":"MA", 
+          "knowledge": ["MA_409","MA_357","MA_289"],
+          "order": 89
+        }
+        {
+          "_id":"U_MA_90", "subject":"MA", 
+          "knowledge": ["MA_47","MA_119","MA_204"],
+          "order": 90
+        }
+        {
+          "_id":"U_MA_91", "subject":"MA", 
+          "knowledge": ["MA_483","MA_329","MA_163"],
+          "order": 91
+        }
+        {
+          "_id":"U_MA_92", "subject":"MA", 
+          "knowledge": ["MA_403","MA_407"],
+          "order": 92
+        }
+        {
+          "_id":"U_MA_93", "subject":"MA", 
+          "knowledge": ["MA_366"],
+          "order": 93
+        }
+        {
+          "_id":"U_MA_94", "subject":"MA", 
+          "knowledge": ["MA_177","MA_230","MA_450"],
+          "order": 94
+        }
+        {
+          "_id":"U_MA_95", "subject":"MA", 
+          "knowledge": ["MA_159"],
+          "order": 95
+        }
+        {
+          "_id":"U_MA_96", "subject":"MA", 
+          "knowledge": ["MA_146","MA_355","MA_114"],
+          "order": 96
+        }
+        {
+          "_id":"U_MA_97", "subject":"MA", 
+          "knowledge": ["MA_260"],
+          "order": 97
+        }
+        {
+          "_id":"U_MA_98", "subject":"MA", 
+          "knowledge": ["MA_77","MA_369"],
+          "order": 98
+        }
+        {
+          "_id":"U_MA_99", "subject":"MA", 
+          "knowledge": ["MA_330"],
+          "order": 99
+        }
+        {
+          "_id":"U_MA_100", "subject":"MA", 
+          "knowledge": ["MA_164","MA_205"],
+          "order": 100
+        }
+        {
+          "_id":"U_MA_101", "subject":"MA", 
+          "knowledge": ["MA_260"],
+          "order": 101
+        }
+        {
+          "_id":"U_MA_102", "subject":"MA", 
+          "knowledge": ["MA_372"],
+          "order": 102
+        }
+        {
+          "_id":"U_MA_103", "subject":"MA", 
+          "knowledge": ["MA_82"],
+          "order": 103
+        }
+        {
+          "_id":"U_MA_104", "subject":"MA", 
+          "knowledge": ["MA_249","MA_156","MA_147"],
+          "order": 104
+        }
+        {
+          "_id":"U_MA_105", "subject":"MA", 
+          "knowledge": ["MA_302","MA_401","MA_483"],
+          "order": 105
+        }
+        {
+          "_id":"U_MA_106", "subject":"MA", 
+          "knowledge": ["MA_29"],
+          "order": 106
+        }
+        {
+          "_id":"U_MA_107", "subject":"MA", 
+          "knowledge": ["MA_332","MA_181"],
+          "order": 107
+        }
+        {
+          "_id":"U_MA_108", "subject":"MA", 
+          "knowledge": ["MA_221","MA_204"],
+          "order": 108
+        }
+        {
+          "_id":"U_MA_109", "subject":"MA", 
+          "knowledge": ["MA_149"],
+          "order": 109
+        }
+        {
+          "_id":"U_MA_110", "subject":"MA", 
+          "knowledge": ["MA_231"],
+          "order": 110
+        }
+        {
+          "_id":"U_MA_111", "subject":"MA", 
+          "knowledge": ["MA_346","MA_255","MA_217"],
+          "order": 111
+        }
+        {
+          "_id":"U_MA_112", "subject":"MA", 
+          "knowledge": ["MA_223","MA_288","MA_161"],
+          "order": 112
+        }
+        {
+          "_id":"U_MA_113", "subject":"MA", 
+          "knowledge": ["MA_499","MA_316"],
+          "order": 113
+        }
+        {
+          "_id":"U_MA_114", "subject":"MA", 
+          "knowledge": ["MA_411","MA_38","MA_269"],
+          "order": 114
+        }
+        {
+          "_id":"U_MA_115", "subject":"MA", 
+          "knowledge": ["MA_68","MA_486","MA_335"],
+          "order": 115
+        }
+        {
+          "_id":"U_MA_116", "subject":"MA", 
+          "knowledge": ["MA_386"],
+          "order": 116
+        }
+        {
+          "_id":"U_MA_117", "subject":"MA", 
+          "knowledge": ["MA_391","MA_317"],
+          "order": 117
+        }
+        {
+          "_id":"U_MA_118", "subject":"MA", 
+          "knowledge": ["MA_20","MA_280","MA_83"],
+          "order": 118
+        }
+        {
+          "_id":"U_MA_119", "subject":"MA", 
+          "knowledge": ["MA_433"],
+          "order": 119
+        }
+        {
+          "_id":"U_MA_120", "subject":"MA", 
+          "knowledge": ["MA_307","MA_435","MA_77"],
+          "order": 120
+        }
+        {
+          "_id":"U_MA_121", "subject":"MA", 
+          "knowledge": ["MA_23","MA_41","MA_23"],
+          "order": 121
+        }
+        {
+          "_id":"U_MA_122", "subject":"MA", 
+          "knowledge": ["MA_98"],
+          "order": 122
+        }
+        {
+          "_id":"U_MA_123", "subject":"MA", 
+          "knowledge": ["MA_142","MA_148","MA_104"],
+          "order": 123
+        }
+        {
+          "_id":"U_MA_124", "subject":"MA", 
+          "knowledge": ["MA_2","MA_428"],
+          "order": 124
+        }
+        {
+          "_id":"U_MA_125", "subject":"MA", 
+          "knowledge": ["MA_432"],
+          "order": 125
+        }
+        {
+          "_id":"U_MA_126", "subject":"MA", 
+          "knowledge": ["MA_233","MA_199"],
+          "order": 126
+        }
+        {
+          "_id":"U_MA_127", "subject":"MA", 
+          "knowledge": ["MA_59","MA_314"],
+          "order": 127
+        }
+        {
+          "_id":"U_MA_128", "subject":"MA", 
+          "knowledge": ["MA_362","MA_107","MA_341"],
+          "order": 128
+        }
+        {
+          "_id":"U_MA_129", "subject":"MA", 
+          "knowledge": ["MA_163","MA_439","MA_219"],
+          "order": 129
+        }
+        {
+          "_id":"U_MA_130", "subject":"MA", 
+          "knowledge": ["MA_330","MA_470"],
+          "order": 130
+        }
+        {
+          "_id":"U_MA_131", "subject":"MA", 
+          "knowledge": ["MA_94","MA_238","MA_84"],
+          "order": 131
+        }
+        {
+          "_id":"U_MA_132", "subject":"MA", 
+          "knowledge": ["MA_38","MA_61","MA_50"],
+          "order": 132
+        }
+        {
+          "_id":"U_MA_133", "subject":"MA", 
+          "knowledge": ["MA_340","MA_278","MA_320"],
+          "order": 133
+        }
+        {
+          "_id":"U_MA_134", "subject":"MA", 
+          "knowledge": ["MA_460"],
+          "order": 134
+        }
+        {
+          "_id":"U_MA_135", "subject":"MA", 
+          "knowledge": ["MA_378"],
+          "order": 135
+        }
+        {
+          "_id":"U_MA_136", "subject":"MA", 
+          "knowledge": ["MA_500","MA_58"],
+          "order": 136
+        }
+        {
+          "_id":"U_MA_137", "subject":"MA", 
+          "knowledge": ["MA_176","MA_358"],
+          "order": 137
+        }
+        {
+          "_id":"U_MA_138", "subject":"MA", 
+          "knowledge": ["MA_154"],
+          "order": 138
+        }
+        {
+          "_id":"U_MA_139", "subject":"MA", 
+          "knowledge": ["MA_302"],
+          "order": 139
+        }
+        {
+          "_id":"U_MA_140", "subject":"MA", 
+          "knowledge": ["MA_337","MA_71"],
+          "order": 140
+        }
+        {
+          "_id":"U_MA_141", "subject":"MA", 
+          "knowledge": ["MA_427","MA_358","MA_169"],
+          "order": 141
+        }
+        {
+          "_id":"U_MA_142", "subject":"MA", 
+          "knowledge": ["MA_274","MA_148"],
+          "order": 142
+        }
+        {
+          "_id":"U_MA_143", "subject":"MA", 
+          "knowledge": ["MA_301","MA_431"],
+          "order": 143
+        }
+        {
+          "_id":"U_MA_144", "subject":"MA", 
+          "knowledge": ["MA_354"],
+          "order": 144
+        }
+        {
+          "_id":"U_MA_145", "subject":"MA", 
+          "knowledge": ["MA_163","MA_327","MA_322"],
+          "order": 145
+        }
+        {
+          "_id":"U_MA_146", "subject":"MA", 
+          "knowledge": ["MA_219"],
+          "order": 146
+        }
+        {
+          "_id":"U_MA_147", "subject":"MA", 
+          "knowledge": ["MA_419","MA_385"],
+          "order": 147
+        }
+        {
+          "_id":"U_MA_148", "subject":"MA", 
+          "knowledge": ["MA_480"],
+          "order": 148
+        }
+        {
+          "_id":"U_MA_149", "subject":"MA", 
+          "knowledge": ["MA_335"],
+          "order": 149
+        }
+        {
+          "_id":"U_MA_150", "subject":"MA", 
+          "knowledge": ["MA_116"],
+          "order": 150
+        }
+        {
+          "_id":"U_MA_151", "subject":"MA", 
+          "knowledge": ["MA_341"],
+          "order": 151
+        }
+        {
+          "_id":"U_MA_152", "subject":"MA", 
+          "knowledge": ["MA_46","MA_464"],
+          "order": 152
+        }
+        {
+          "_id":"U_MA_153", "subject":"MA", 
+          "knowledge": ["MA_380"],
+          "order": 153
+        }
+        {
+          "_id":"U_MA_154", "subject":"MA", 
+          "knowledge": ["MA_8"],
+          "order": 154
+        }
+        {
+          "_id":"U_MA_155", "subject":"MA", 
+          "knowledge": ["MA_384","MA_144"],
+          "order": 155
+        }
+        {
+          "_id":"U_MA_156", "subject":"MA", 
+          "knowledge": ["MA_158","MA_6"],
+          "order": 156
+        }
+        {
+          "_id":"U_MA_157", "subject":"MA", 
+          "knowledge": ["MA_277","MA_476","MA_148"],
+          "order": 157
+        }
+        {
+          "_id":"U_MA_158", "subject":"MA", 
+          "knowledge": ["MA_419"],
+          "order": 158
+        }
+        {
+          "_id":"U_MA_159", "subject":"MA", 
+          "knowledge": ["MA_445","MA_289"],
+          "order": 159
+        }
+        {
+          "_id":"U_MA_160", "subject":"MA", 
+          "knowledge": ["MA_45"],
+          "order": 160
+        }
+        {
+          "_id":"U_MA_161", "subject":"MA", 
+          "knowledge": ["MA_433"],
+          "order": 161
+        }
+        {
+          "_id":"U_MA_162", "subject":"MA", 
+          "knowledge": ["MA_43"],
+          "order": 162
+        }
+        {
+          "_id":"U_MA_163", "subject":"MA", 
+          "knowledge": ["MA_288","MA_480"],
+          "order": 163
+        }
+        {
+          "_id":"U_MA_164", "subject":"MA", 
+          "knowledge": ["MA_46"],
+          "order": 164
+        }
+        {
+          "_id":"U_MA_165", "subject":"MA", 
+          "knowledge": ["MA_482","MA_253"],
+          "order": 165
+        }
+        {
+          "_id":"U_MA_166", "subject":"MA", 
+          "knowledge": ["MA_120","MA_86"],
+          "order": 166
+        }
+        {
+          "_id":"U_MA_167", "subject":"MA", 
+          "knowledge": ["MA_21","MA_97"],
+          "order": 167
+        }
+        {
+          "_id":"U_MA_168", "subject":"MA", 
+          "knowledge": ["MA_38","MA_320","MA_302"],
+          "order": 168
+        }
+        {
+          "_id":"U_MA_169", "subject":"MA", 
+          "knowledge": ["MA_184"],
+          "order": 169
+        }
+        {
+          "_id":"U_MA_170", "subject":"MA", 
+          "knowledge": ["MA_152"],
+          "order": 170
+        }
+        {
+          "_id":"U_MA_171", "subject":"MA", 
+          "knowledge": ["MA_408","MA_353"],
+          "order": 171
+        }
+        {
+          "_id":"U_MA_172", "subject":"MA", 
+          "knowledge": ["MA_139","MA_210"],
+          "order": 172
+        }
+        {
+          "_id":"U_MA_173", "subject":"MA", 
+          "knowledge": ["MA_73","MA_359"],
+          "order": 173
+        }
+        {
+          "_id":"U_MA_174", "subject":"MA", 
+          "knowledge": ["MA_268"],
+          "order": 174
+        }
+        {
+          "_id":"U_MA_175", "subject":"MA", 
+          "knowledge": ["MA_347"],
+          "order": 175
+        }
+        {
+          "_id":"U_MA_176", "subject":"MA", 
+          "knowledge": ["MA_197"],
+          "order": 176
+        }
+        {
+          "_id":"U_MA_177", "subject":"MA", 
+          "knowledge": ["MA_134"],
+          "order": 177
+        }
+        {
+          "_id":"U_MA_178", "subject":"MA", 
+          "knowledge": ["MA_494"],
+          "order": 178
+        }
+        {
+          "_id":"U_MA_179", "subject":"MA", 
+          "knowledge": ["MA_464","MA_139"],
+          "order": 179
+        }
+        {
+          "_id":"U_MA_180", "subject":"MA", 
+          "knowledge": ["MA_138","MA_286"],
+          "order": 180
+        }
+        {
+          "_id":"U_MA_181", "subject":"MA", 
+          "knowledge": ["MA_408","MA_143"],
+          "order": 181
+        }
+        {
+          "_id":"U_MA_182", "subject":"MA", 
+          "knowledge": ["MA_234","MA_354"],
+          "order": 182
+        }
+        {
+          "_id":"U_MA_183", "subject":"MA", 
+          "knowledge": ["MA_422","MA_275"],
+          "order": 183
+        }
+        {
+          "_id":"U_MA_184", "subject":"MA", 
+          "knowledge": ["MA_110","MA_418","MA_83"],
+          "order": 184
+        }
+        {
+          "_id":"U_MA_185", "subject":"MA", 
+          "knowledge": ["MA_482","MA_286","MA_244"],
+          "order": 185
+        }
+        {
+          "_id":"U_MA_186", "subject":"MA", 
+          "knowledge": ["MA_338","MA_211","MA_500"],
+          "order": 186
+        }
+        {
+          "_id":"U_MA_187", "subject":"MA", 
+          "knowledge": ["MA_368","MA_130"],
+          "order": 187
+        }
+        {
+          "_id":"U_MA_188", "subject":"MA", 
+          "knowledge": ["MA_118"],
+          "order": 188
+        }
+        {
+          "_id":"U_MA_189", "subject":"MA", 
+          "knowledge": ["MA_385","MA_90"],
+          "order": 189
+        }
+        {
+          "_id":"U_MA_190", "subject":"MA", 
+          "knowledge": ["MA_83"],
+          "order": 190
+        }
+        {
+          "_id":"U_MA_191", "subject":"MA", 
+          "knowledge": ["MA_249","MA_436","MA_281"],
+          "order": 191
+        }
+        {
+          "_id":"U_MA_192", "subject":"MA", 
+          "knowledge": ["MA_237","MA_320","MA_470"],
+          "order": 192
+        }
+        {
+          "_id":"U_MA_193", "subject":"MA", 
+          "knowledge": ["MA_468"],
+          "order": 193
+        }
+        {
+          "_id":"U_MA_194", "subject":"MA", 
+          "knowledge": ["MA_489"],
+          "order": 194
+        }
+        {
+          "_id":"U_MA_195", "subject":"MA", 
+          "knowledge": ["MA_405","MA_252"],
+          "order": 195
+        }
+        {
+          "_id":"U_MA_196", "subject":"MA", 
+          "knowledge": ["MA_379"],
+          "order": 196
+        }
+        {
+          "_id":"U_MA_197", "subject":"MA", 
+          "knowledge": ["MA_30"],
+          "order": 197
+        }
+        {
+          "_id":"U_MA_198", "subject":"MA", 
+          "knowledge": ["MA_97","MA_82"],
+          "order": 198
+        }
+        {
+          "_id":"U_MA_199", "subject":"MA", 
+          "knowledge": ["MA_357"],
+          "order": 199
+        }
+        {
+          "_id":"U_MA_200", "subject":"MA", 
+          "knowledge": ["MA_218","MA_272","MA_244"],
+          "order": 200
+        }
+        {
+          "_id":"U_EN_1", "subject":"EN", 
+          "knowledge": ["EN_211","EN_77"],
+          "order": 1
+        }
+        {
+          "_id":"U_EN_2", "subject":"EN", 
+          "knowledge": ["EN_317","EN_295"],
+          "order": 2
+        }
+        {
+          "_id":"U_EN_3", "subject":"EN", 
+          "knowledge": ["EN_82"],
+          "order": 3
+        }
+        {
+          "_id":"U_EN_4", "subject":"EN", 
+          "knowledge": ["EN_385"],
+          "order": 4
+        }
+        {
+          "_id":"U_EN_5", "subject":"EN", 
+          "knowledge": ["EN_465"],
+          "order": 5
+        }
+        {
+          "_id":"U_EN_6", "subject":"EN", 
+          "knowledge": ["EN_426","EN_141","EN_56"],
+          "order": 6
+        }
+        {
+          "_id":"U_EN_7", "subject":"EN", 
+          "knowledge": ["EN_307"],
+          "order": 7
+        }
+        {
+          "_id":"U_EN_8", "subject":"EN", 
+          "knowledge": ["EN_406","EN_194","EN_203"],
+          "order": 8
+        }
+        {
+          "_id":"U_EN_9", "subject":"EN", 
+          "knowledge": ["EN_460"],
+          "order": 9
+        }
+        {
+          "_id":"U_EN_10", "subject":"EN", 
+          "knowledge": ["EN_225","EN_147"],
+          "order": 10
+        }
+        {
+          "_id":"U_EN_11", "subject":"EN", 
+          "knowledge": ["EN_241","EN_39"],
+          "order": 11
+        }
+        {
+          "_id":"U_EN_12", "subject":"EN", 
+          "knowledge": ["EN_59"],
+          "order": 12
+        }
+        {
+          "_id":"U_EN_13", "subject":"EN", 
+          "knowledge": ["EN_77","EN_428"],
+          "order": 13
+        }
+        {
+          "_id":"U_EN_14", "subject":"EN", 
+          "knowledge": ["EN_88","EN_121"],
+          "order": 14
+        }
+        {
+          "_id":"U_EN_15", "subject":"EN", 
+          "knowledge": ["EN_376","EN_324"],
+          "order": 15
+        }
+        {
+          "_id":"U_EN_16", "subject":"EN", 
+          "knowledge": ["EN_326"],
+          "order": 16
+        }
+        {
+          "_id":"U_EN_17", "subject":"EN", 
+          "knowledge": ["EN_67","EN_204"],
+          "order": 17
+        }
+        {
+          "_id":"U_EN_18", "subject":"EN", 
+          "knowledge": ["EN_68","EN_152"],
+          "order": 18
+        }
+        {
+          "_id":"U_EN_19", "subject":"EN", 
+          "knowledge": ["EN_92","EN_181"],
+          "order": 19
+        }
+        {
+          "_id":"U_EN_20", "subject":"EN", 
+          "knowledge": ["EN_112"],
+          "order": 20
+        }
+        {
+          "_id":"U_EN_21", "subject":"EN", 
+          "knowledge": ["EN_316"],
+          "order": 21
+        }
+        {
+          "_id":"U_EN_22", "subject":"EN", 
+          "knowledge": ["EN_149","EN_106","EN_344"],
+          "order": 22
+        }
+        {
+          "_id":"U_EN_23", "subject":"EN", 
+          "knowledge": ["EN_495","EN_356"],
+          "order": 23
+        }
+        {
+          "_id":"U_EN_24", "subject":"EN", 
+          "knowledge": ["EN_146"],
+          "order": 24
+        }
+        {
+          "_id":"U_EN_25", "subject":"EN", 
+          "knowledge": ["EN_130"],
+          "order": 25
+        }
+        {
+          "_id":"U_EN_26", "subject":"EN", 
+          "knowledge": ["EN_97","EN_77","EN_44"],
+          "order": 26
+        }
+        {
+          "_id":"U_EN_27", "subject":"EN", 
+          "knowledge": ["EN_468","EN_322","EN_481"],
+          "order": 27
+        }
+        {
+          "_id":"U_EN_28", "subject":"EN", 
+          "knowledge": ["EN_264"],
+          "order": 28
+        }
+        {
+          "_id":"U_EN_29", "subject":"EN", 
+          "knowledge": ["EN_375"],
+          "order": 29
+        }
+        {
+          "_id":"U_EN_30", "subject":"EN", 
+          "knowledge": ["EN_472","EN_244"],
+          "order": 30
+        }
+        {
+          "_id":"U_EN_31", "subject":"EN", 
+          "knowledge": ["EN_413","EN_394"],
+          "order": 31
+        }
+        {
+          "_id":"U_EN_32", "subject":"EN", 
+          "knowledge": ["EN_74"],
+          "order": 32
+        }
+        {
+          "_id":"U_EN_33", "subject":"EN", 
+          "knowledge": ["EN_126","EN_498","EN_301"],
+          "order": 33
+        }
+        {
+          "_id":"U_EN_34", "subject":"EN", 
+          "knowledge": ["EN_283","EN_47","EN_215"],
+          "order": 34
+        }
+        {
+          "_id":"U_EN_35", "subject":"EN", 
+          "knowledge": ["EN_90"],
+          "order": 35
+        }
+        {
+          "_id":"U_EN_36", "subject":"EN", 
+          "knowledge": ["EN_300","EN_110"],
+          "order": 36
+        }
+        {
+          "_id":"U_EN_37", "subject":"EN", 
+          "knowledge": ["EN_232"],
+          "order": 37
+        }
+        {
+          "_id":"U_EN_38", "subject":"EN", 
+          "knowledge": ["EN_491","EN_217","EN_180"],
+          "order": 38
+        }
+        {
+          "_id":"U_EN_39", "subject":"EN", 
+          "knowledge": ["EN_434"],
+          "order": 39
+        }
+        {
+          "_id":"U_EN_40", "subject":"EN", 
+          "knowledge": ["EN_168","EN_32"],
+          "order": 40
+        }
+        {
+          "_id":"U_EN_41", "subject":"EN", 
+          "knowledge": ["EN_498","EN_108","EN_397"],
+          "order": 41
+        }
+        {
+          "_id":"U_EN_42", "subject":"EN", 
+          "knowledge": ["EN_370"],
+          "order": 42
+        }
+        {
+          "_id":"U_EN_43", "subject":"EN", 
+          "knowledge": ["EN_459","EN_62"],
+          "order": 43
+        }
+        {
+          "_id":"U_EN_44", "subject":"EN", 
+          "knowledge": ["EN_439","EN_371"],
+          "order": 44
+        }
+        {
+          "_id":"U_EN_45", "subject":"EN", 
+          "knowledge": ["EN_188","EN_440","EN_319"],
+          "order": 45
+        }
+        {
+          "_id":"U_EN_46", "subject":"EN", 
+          "knowledge": ["EN_72","EN_144"],
+          "order": 46
+        }
+        {
+          "_id":"U_EN_47", "subject":"EN", 
+          "knowledge": ["EN_272"],
+          "order": 47
+        }
+        {
+          "_id":"U_EN_48", "subject":"EN", 
+          "knowledge": ["EN_484","EN_381","EN_247"],
+          "order": 48
+        }
+        {
+          "_id":"U_EN_49", "subject":"EN", 
+          "knowledge": ["EN_389"],
+          "order": 49
+        }
+        {
+          "_id":"U_EN_50", "subject":"EN", 
+          "knowledge": ["EN_49"],
+          "order": 50
+        }
+        {
+          "_id":"U_EN_51", "subject":"EN", 
+          "knowledge": ["EN_282","EN_326","EN_172"],
+          "order": 51
+        }
+        {
+          "_id":"U_EN_52", "subject":"EN", 
+          "knowledge": ["EN_310"],
+          "order": 52
+        }
+        {
+          "_id":"U_EN_53", "subject":"EN", 
+          "knowledge": ["EN_28"],
+          "order": 53
+        }
+        {
+          "_id":"U_EN_54", "subject":"EN", 
+          "knowledge": ["EN_189"],
+          "order": 54
+        }
+        {
+          "_id":"U_EN_55", "subject":"EN", 
+          "knowledge": ["EN_451"],
+          "order": 55
+        }
+        {
+          "_id":"U_EN_56", "subject":"EN", 
+          "knowledge": ["EN_101"],
+          "order": 56
+        }
+        {
+          "_id":"U_EN_57", "subject":"EN", 
+          "knowledge": ["EN_452","EN_168","EN_224"],
+          "order": 57
+        }
+        {
+          "_id":"U_EN_58", "subject":"EN", 
+          "knowledge": ["EN_1","EN_108","EN_426"],
+          "order": 58
+        }
+        {
+          "_id":"U_EN_59", "subject":"EN", 
+          "knowledge": ["EN_359","EN_445","EN_483"],
+          "order": 59
+        }
+        {
+          "_id":"U_EN_60", "subject":"EN", 
+          "knowledge": ["EN_250"],
+          "order": 60
+        }
+        {
+          "_id":"U_EN_61", "subject":"EN", 
+          "knowledge": ["EN_22","EN_461","EN_105"],
+          "order": 61
+        }
+        {
+          "_id":"U_EN_62", "subject":"EN", 
+          "knowledge": ["EN_475"],
+          "order": 62
+        }
+        {
+          "_id":"U_EN_63", "subject":"EN", 
+          "knowledge": ["EN_212","EN_151","EN_386"],
+          "order": 63
+        }
+        {
+          "_id":"U_EN_64", "subject":"EN", 
+          "knowledge": ["EN_67","EN_51"],
+          "order": 64
+        }
+        {
+          "_id":"U_EN_65", "subject":"EN", 
+          "knowledge": ["EN_433","EN_312","EN_43"],
+          "order": 65
+        }
+        {
+          "_id":"U_EN_66", "subject":"EN", 
+          "knowledge": ["EN_13","EN_102","EN_99"],
+          "order": 66
+        }
+        {
+          "_id":"U_EN_67", "subject":"EN", 
+          "knowledge": ["EN_274"],
+          "order": 67
+        }
+        {
+          "_id":"U_EN_68", "subject":"EN", 
+          "knowledge": ["EN_177","EN_273"],
+          "order": 68
+        }
+        {
+          "_id":"U_EN_69", "subject":"EN", 
+          "knowledge": ["EN_457","EN_330"],
+          "order": 69
+        }
+        {
+          "_id":"U_EN_70", "subject":"EN", 
+          "knowledge": ["EN_393","EN_356","EN_137"],
+          "order": 70
+        }
+        {
+          "_id":"U_EN_71", "subject":"EN", 
+          "knowledge": ["EN_265"],
+          "order": 71
+        }
+        {
+          "_id":"U_EN_72", "subject":"EN", 
+          "knowledge": ["EN_265","EN_140"],
+          "order": 72
+        }
+        {
+          "_id":"U_EN_73", "subject":"EN", 
+          "knowledge": ["EN_206","EN_425","EN_305"],
+          "order": 73
+        }
+        {
+          "_id":"U_EN_74", "subject":"EN", 
+          "knowledge": ["EN_419","EN_22","EN_274"],
+          "order": 74
+        }
+        {
+          "_id":"U_EN_75", "subject":"EN", 
+          "knowledge": ["EN_380"],
+          "order": 75
+        }
+        {
+          "_id":"U_EN_76", "subject":"EN", 
+          "knowledge": ["EN_285","EN_210"],
+          "order": 76
+        }
+        {
+          "_id":"U_EN_77", "subject":"EN", 
+          "knowledge": ["EN_282","EN_20","EN_187"],
+          "order": 77
+        }
+        {
+          "_id":"U_EN_78", "subject":"EN", 
+          "knowledge": ["EN_310"],
+          "order": 78
+        }
+        {
+          "_id":"U_EN_79", "subject":"EN", 
+          "knowledge": ["EN_9","EN_403","EN_432"],
+          "order": 79
+        }
+        {
+          "_id":"U_EN_80", "subject":"EN", 
+          "knowledge": ["EN_492"],
+          "order": 80
+        }
+        {
+          "_id":"U_EN_81", "subject":"EN", 
+          "knowledge": ["EN_228","EN_340"],
+          "order": 81
+        }
+        {
+          "_id":"U_EN_82", "subject":"EN", 
+          "knowledge": ["EN_15","EN_67"],
+          "order": 82
+        }
+        {
+          "_id":"U_EN_83", "subject":"EN", 
+          "knowledge": ["EN_399"],
+          "order": 83
+        }
+        {
+          "_id":"U_EN_84", "subject":"EN", 
+          "knowledge": ["EN_220","EN_353"],
+          "order": 84
+        }
+        {
+          "_id":"U_EN_85", "subject":"EN", 
+          "knowledge": ["EN_203","EN_460","EN_108"],
+          "order": 85
+        }
+        {
+          "_id":"U_EN_86", "subject":"EN", 
+          "knowledge": ["EN_368"],
+          "order": 86
+        }
+        {
+          "_id":"U_EN_87", "subject":"EN", 
+          "knowledge": ["EN_433"],
+          "order": 87
+        }
+        {
+          "_id":"U_EN_88", "subject":"EN", 
+          "knowledge": ["EN_313","EN_353"],
+          "order": 88
+        }
+        {
+          "_id":"U_EN_89", "subject":"EN", 
+          "knowledge": ["EN_291","EN_436"],
+          "order": 89
+        }
+        {
+          "_id":"U_EN_90", "subject":"EN", 
+          "knowledge": ["EN_418"],
+          "order": 90
+        }
+        {
+          "_id":"U_EN_91", "subject":"EN", 
+          "knowledge": ["EN_313"],
+          "order": 91
+        }
+        {
+          "_id":"U_EN_92", "subject":"EN", 
+          "knowledge": ["EN_12"],
+          "order": 92
+        }
+        {
+          "_id":"U_EN_93", "subject":"EN", 
+          "knowledge": ["EN_156","EN_446","EN_76"],
+          "order": 93
+        }
+        {
+          "_id":"U_EN_94", "subject":"EN", 
+          "knowledge": ["EN_34"],
+          "order": 94
+        }
+        {
+          "_id":"U_EN_95", "subject":"EN", 
+          "knowledge": ["EN_475"],
+          "order": 95
+        }
+        {
+          "_id":"U_EN_96", "subject":"EN", 
+          "knowledge": ["EN_62","EN_230"],
+          "order": 96
+        }
+        {
+          "_id":"U_EN_97", "subject":"EN", 
+          "knowledge": ["EN_116","EN_333"],
+          "order": 97
+        }
+        {
+          "_id":"U_EN_98", "subject":"EN", 
+          "knowledge": ["EN_422","EN_468","EN_197"],
+          "order": 98
+        }
+        {
+          "_id":"U_EN_99", "subject":"EN", 
+          "knowledge": ["EN_437"],
+          "order": 99
+        }
+        {
+          "_id":"U_EN_100", "subject":"EN", 
+          "knowledge": ["EN_448","EN_107"],
+          "order": 100
+        }
+        {
+          "_id":"U_EN_101", "subject":"EN", 
+          "knowledge": ["EN_77","EN_87"],
+          "order": 101
+        }
+        {
+          "_id":"U_EN_102", "subject":"EN", 
+          "knowledge": ["EN_235","EN_458","EN_291"],
+          "order": 102
+        }
+        {
+          "_id":"U_EN_103", "subject":"EN", 
+          "knowledge": ["EN_8"],
+          "order": 103
+        }
+        {
+          "_id":"U_EN_104", "subject":"EN", 
+          "knowledge": ["EN_405","EN_94"],
+          "order": 104
+        }
+        {
+          "_id":"U_EN_105", "subject":"EN", 
+          "knowledge": ["EN_213","EN_316","EN_92"],
+          "order": 105
+        }
+        {
+          "_id":"U_EN_106", "subject":"EN", 
+          "knowledge": ["EN_335","EN_239","EN_472"],
+          "order": 106
+        }
+        {
+          "_id":"U_EN_107", "subject":"EN", 
+          "knowledge": ["EN_498","EN_201","EN_399"],
+          "order": 107
+        }
+        {
+          "_id":"U_EN_108", "subject":"EN", 
+          "knowledge": ["EN_393","EN_94","EN_60"],
+          "order": 108
+        }
+        {
+          "_id":"U_EN_109", "subject":"EN", 
+          "knowledge": ["EN_21"],
+          "order": 109
+        }
+        {
+          "_id":"U_EN_110", "subject":"EN", 
+          "knowledge": ["EN_274","EN_488"],
+          "order": 110
+        }
+        {
+          "_id":"U_EN_111", "subject":"EN", 
+          "knowledge": ["EN_459","EN_67"],
+          "order": 111
+        }
+        {
+          "_id":"U_EN_112", "subject":"EN", 
+          "knowledge": ["EN_443","EN_263","EN_372"],
+          "order": 112
+        }
+        {
+          "_id":"U_EN_113", "subject":"EN", 
+          "knowledge": ["EN_127","EN_349"],
+          "order": 113
+        }
+        {
+          "_id":"U_EN_114", "subject":"EN", 
+          "knowledge": ["EN_489"],
+          "order": 114
+        }
+        {
+          "_id":"U_EN_115", "subject":"EN", 
+          "knowledge": ["EN_305","EN_59"],
+          "order": 115
+        }
+        {
+          "_id":"U_EN_116", "subject":"EN", 
+          "knowledge": ["EN_254"],
+          "order": 116
+        }
+        {
+          "_id":"U_EN_117", "subject":"EN", 
+          "knowledge": ["EN_239","EN_309"],
+          "order": 117
+        }
+        {
+          "_id":"U_EN_118", "subject":"EN", 
+          "knowledge": ["EN_329","EN_46"],
+          "order": 118
+        }
+        {
+          "_id":"U_EN_119", "subject":"EN", 
+          "knowledge": ["EN_424"],
+          "order": 119
+        }
+        {
+          "_id":"U_EN_120", "subject":"EN", 
+          "knowledge": ["EN_41"],
+          "order": 120
+        }
+        {
+          "_id":"U_EN_121", "subject":"EN", 
+          "knowledge": ["EN_411","EN_374"],
+          "order": 121
+        }
+        {
+          "_id":"U_EN_122", "subject":"EN", 
+          "knowledge": ["EN_478","EN_278"],
+          "order": 122
+        }
+        {
+          "_id":"U_EN_123", "subject":"EN", 
+          "knowledge": ["EN_299"],
+          "order": 123
+        }
+        {
+          "_id":"U_EN_124", "subject":"EN", 
+          "knowledge": ["EN_151","EN_275"],
+          "order": 124
+        }
+        {
+          "_id":"U_EN_125", "subject":"EN", 
+          "knowledge": ["EN_368"],
+          "order": 125
+        }
+        {
+          "_id":"U_EN_126", "subject":"EN", 
+          "knowledge": ["EN_404","EN_409"],
+          "order": 126
+        }
+        {
+          "_id":"U_EN_127", "subject":"EN", 
+          "knowledge": ["EN_429","EN_186"],
+          "order": 127
+        }
+        {
+          "_id":"U_EN_128", "subject":"EN", 
+          "knowledge": ["EN_441","EN_76","EN_417"],
+          "order": 128
+        }
+        {
+          "_id":"U_EN_129", "subject":"EN", 
+          "knowledge": ["EN_179","EN_94"],
+          "order": 129
+        }
+        {
+          "_id":"U_EN_130", "subject":"EN", 
+          "knowledge": ["EN_385","EN_16","EN_286"],
+          "order": 130
+        }
+        {
+          "_id":"U_EN_131", "subject":"EN", 
+          "knowledge": ["EN_21","EN_30","EN_50"],
+          "order": 131
+        }
+        {
+          "_id":"U_EN_132", "subject":"EN", 
+          "knowledge": ["EN_129","EN_449","EN_168"],
+          "order": 132
+        }
+        {
+          "_id":"U_EN_133", "subject":"EN", 
+          "knowledge": ["EN_463","EN_110","EN_83"],
+          "order": 133
+        }
+        {
+          "_id":"U_EN_134", "subject":"EN", 
+          "knowledge": ["EN_115","EN_297"],
+          "order": 134
+        }
+        {
+          "_id":"U_EN_135", "subject":"EN", 
+          "knowledge": ["EN_89"],
+          "order": 135
+        }
+        {
+          "_id":"U_EN_136", "subject":"EN", 
+          "knowledge": ["EN_92"],
+          "order": 136
+        }
+        {
+          "_id":"U_EN_137", "subject":"EN", 
+          "knowledge": ["EN_290","EN_78","EN_500"],
+          "order": 137
+        }
+        {
+          "_id":"U_EN_138", "subject":"EN", 
+          "knowledge": ["EN_176"],
+          "order": 138
+        }
+        {
+          "_id":"U_EN_139", "subject":"EN", 
+          "knowledge": ["EN_402","EN_496"],
+          "order": 139
+        }
+        {
+          "_id":"U_EN_140", "subject":"EN", 
+          "knowledge": ["EN_27","EN_239"],
+          "order": 140
+        }
+        {
+          "_id":"U_EN_141", "subject":"EN", 
+          "knowledge": ["EN_191"],
+          "order": 141
+        }
+        {
+          "_id":"U_EN_142", "subject":"EN", 
+          "knowledge": ["EN_192"],
+          "order": 142
+        }
+        {
+          "_id":"U_EN_143", "subject":"EN", 
+          "knowledge": ["EN_381","EN_117"],
+          "order": 143
+        }
+        {
+          "_id":"U_EN_144", "subject":"EN", 
+          "knowledge": ["EN_190","EN_396"],
+          "order": 144
+        }
+        {
+          "_id":"U_EN_145", "subject":"EN", 
+          "knowledge": ["EN_300"],
+          "order": 145
+        }
+        {
+          "_id":"U_EN_146", "subject":"EN", 
+          "knowledge": ["EN_357"],
+          "order": 146
+        }
+        {
+          "_id":"U_EN_147", "subject":"EN", 
+          "knowledge": ["EN_297","EN_435","EN_309"],
+          "order": 147
+        }
+        {
+          "_id":"U_EN_148", "subject":"EN", 
+          "knowledge": ["EN_477","EN_388"],
+          "order": 148
+        }
+        {
+          "_id":"U_EN_149", "subject":"EN", 
+          "knowledge": ["EN_303"],
+          "order": 149
+        }
+        {
+          "_id":"U_EN_150", "subject":"EN", 
+          "knowledge": ["EN_113","EN_55","EN_99"],
+          "order": 150
+        }
+        {
+          "_id":"U_EN_151", "subject":"EN", 
+          "knowledge": ["EN_185","EN_214","EN_108"],
+          "order": 151
+        }
+        {
+          "_id":"U_EN_152", "subject":"EN", 
+          "knowledge": ["EN_16","EN_414"],
+          "order": 152
+        }
+        {
+          "_id":"U_EN_153", "subject":"EN", 
+          "knowledge": ["EN_330"],
+          "order": 153
+        }
+        {
+          "_id":"U_EN_154", "subject":"EN", 
+          "knowledge": ["EN_303","EN_391","EN_420"],
+          "order": 154
+        }
+        {
+          "_id":"U_EN_155", "subject":"EN", 
+          "knowledge": ["EN_133","EN_207","EN_157"],
+          "order": 155
+        }
+        {
+          "_id":"U_EN_156", "subject":"EN", 
+          "knowledge": ["EN_60"],
+          "order": 156
+        }
+        {
+          "_id":"U_EN_157", "subject":"EN", 
+          "knowledge": ["EN_406"],
+          "order": 157
+        }
+        {
+          "_id":"U_EN_158", "subject":"EN", 
+          "knowledge": ["EN_239"],
+          "order": 158
+        }
+        {
+          "_id":"U_EN_159", "subject":"EN", 
+          "knowledge": ["EN_331","EN_245"],
+          "order": 159
+        }
+        {
+          "_id":"U_EN_160", "subject":"EN", 
+          "knowledge": ["EN_444"],
+          "order": 160
+        }
+        {
+          "_id":"U_EN_161", "subject":"EN", 
+          "knowledge": ["EN_145"],
+          "order": 161
+        }
+        {
+          "_id":"U_EN_162", "subject":"EN", 
+          "knowledge": ["EN_472","EN_408","EN_219"],
+          "order": 162
+        }
+        {
+          "_id":"U_EN_163", "subject":"EN", 
+          "knowledge": ["EN_139"],
+          "order": 163
+        }
+        {
+          "_id":"U_EN_164", "subject":"EN", 
+          "knowledge": ["EN_427","EN_389","EN_48"],
+          "order": 164
+        }
+        {
+          "_id":"U_EN_165", "subject":"EN", 
+          "knowledge": ["EN_478"],
+          "order": 165
+        }
+        {
+          "_id":"U_EN_166", "subject":"EN", 
+          "knowledge": ["EN_474"],
+          "order": 166
+        }
+        {
+          "_id":"U_EN_167", "subject":"EN", 
+          "knowledge": ["EN_391"],
+          "order": 167
+        }
+        {
+          "_id":"U_EN_168", "subject":"EN", 
+          "knowledge": ["EN_438","EN_419","EN_132"],
+          "order": 168
+        }
+        {
+          "_id":"U_EN_169", "subject":"EN", 
+          "knowledge": ["EN_43","EN_303","EN_136"],
+          "order": 169
+        }
+        {
+          "_id":"U_EN_170", "subject":"EN", 
+          "knowledge": ["EN_73","EN_248"],
+          "order": 170
+        }
+        {
+          "_id":"U_EN_171", "subject":"EN", 
+          "knowledge": ["EN_113","EN_459","EN_213"],
+          "order": 171
+        }
+        {
+          "_id":"U_EN_172", "subject":"EN", 
+          "knowledge": ["EN_135","EN_378","EN_238"],
+          "order": 172
+        }
+        {
+          "_id":"U_EN_173", "subject":"EN", 
+          "knowledge": ["EN_200","EN_79"],
+          "order": 173
+        }
+        {
+          "_id":"U_EN_174", "subject":"EN", 
+          "knowledge": ["EN_48"],
+          "order": 174
+        }
+        {
+          "_id":"U_EN_175", "subject":"EN", 
+          "knowledge": ["EN_443"],
+          "order": 175
+        }
+        {
+          "_id":"U_EN_176", "subject":"EN", 
+          "knowledge": ["EN_178","EN_330"],
+          "order": 176
+        }
+        {
+          "_id":"U_EN_177", "subject":"EN", 
+          "knowledge": ["EN_435","EN_267","EN_297"],
+          "order": 177
+        }
+        {
+          "_id":"U_EN_178", "subject":"EN", 
+          "knowledge": ["EN_66","EN_471","EN_259"],
+          "order": 178
+        }
+        {
+          "_id":"U_EN_179", "subject":"EN", 
+          "knowledge": ["EN_394","EN_180","EN_222"],
+          "order": 179
+        }
+        {
+          "_id":"U_EN_180", "subject":"EN", 
+          "knowledge": ["EN_467"],
+          "order": 180
+        }
+        {
+          "_id":"U_EN_181", "subject":"EN", 
+          "knowledge": ["EN_348","EN_161","EN_336"],
+          "order": 181
+        }
+        {
+          "_id":"U_EN_182", "subject":"EN", 
+          "knowledge": ["EN_461","EN_456"],
+          "order": 182
+        }
+        {
+          "_id":"U_EN_183", "subject":"EN", 
+          "knowledge": ["EN_7","EN_426"],
+          "order": 183
+        }
+        {
+          "_id":"U_EN_184", "subject":"EN", 
+          "knowledge": ["EN_332","EN_496"],
+          "order": 184
+        }
+        {
+          "_id":"U_EN_185", "subject":"EN", 
+          "knowledge": ["EN_218","EN_99"],
+          "order": 185
+        }
+        {
+          "_id":"U_EN_186", "subject":"EN", 
+          "knowledge": ["EN_9","EN_371","EN_226"],
+          "order": 186
+        }
+        {
+          "_id":"U_EN_187", "subject":"EN", 
+          "knowledge": ["EN_120","EN_448","EN_263"],
+          "order": 187
+        }
+        {
+          "_id":"U_EN_188", "subject":"EN", 
+          "knowledge": ["EN_34","EN_226"],
+          "order": 188
+        }
+        {
+          "_id":"U_EN_189", "subject":"EN", 
+          "knowledge": ["EN_56","EN_472"],
+          "order": 189
+        }
+        {
+          "_id":"U_EN_190", "subject":"EN", 
+          "knowledge": ["EN_58","EN_93"],
+          "order": 190
+        }
+        {
+          "_id":"U_EN_191", "subject":"EN", 
+          "knowledge": ["EN_106"],
+          "order": 191
+        }
+        {
+          "_id":"U_EN_192", "subject":"EN", 
+          "knowledge": ["EN_325"],
+          "order": 192
+        }
+        {
+          "_id":"U_EN_193", "subject":"EN", 
+          "knowledge": ["EN_465"],
+          "order": 193
+        }
+        {
+          "_id":"U_EN_194", "subject":"EN", 
+          "knowledge": ["EN_380","EN_47"],
+          "order": 194
+        }
+        {
+          "_id":"U_EN_195", "subject":"EN", 
+          "knowledge": ["EN_327","EN_45","EN_157"],
+          "order": 195
+        }
+        {
+          "_id":"U_EN_196", "subject":"EN", 
+          "knowledge": ["EN_13"],
+          "order": 196
+        }
+        {
+          "_id":"U_EN_197", "subject":"EN", 
+          "knowledge": ["EN_61"],
+          "order": 197
+        }
+        {
+          "_id":"U_EN_198", "subject":"EN", 
+          "knowledge": ["EN_238"],
+          "order": 198
+        }
+        {
+          "_id":"U_EN_199", "subject":"EN", 
+          "knowledge": ["EN_37","EN_424"],
+          "order": 199
+        }
+        {
+          "_id":"U_EN_200", "subject":"EN", 
+          "knowledge": ["EN_435","EN_394","EN_179"],
+          "order": 200
+        }
