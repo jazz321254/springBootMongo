@@ -15,6 +15,8 @@ import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.aggregation.Aggregation;
 import org.springframework.data.mongodb.core.aggregation.AggregationResults;
 import org.springframework.data.mongodb.core.query.Criteria;
+import org.springframework.scheduling.annotation.Async;
+import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Repository;
 
 import com.jazz321254.mongo.dto.QuestionResult;
@@ -30,15 +32,8 @@ public class QuestionDAO {
 	private MongoTemplate mongoTemplate;
 	
 	public List<Result> findQuestionUnitBySubjectId(String subjectId) {
-		Aggregation agg = newAggregation(
-				match(new Criteria("subject").is(subjectId)),
-				lookup("unit", "knowledge", "knowledge", "units"),
-				unwind("units"),
-				sort(Sort.Direction.ASC, "_id").and(Sort.Direction.DESC, "units.order"),
-				group("_id").first("difficult").as("difficult").first("units._id").as("unit"),
-				group("unit").count().as("total")
-				);
-		AggregationResults<Result> groupResults = mongoTemplate.aggregate(agg, Question.class, Result.class);
+		Aggregation agg = newAggregation(match(new Criteria("subject").is(subjectId)));
+		AggregationResults<Result> groupResults = mongoTemplate.aggregate(agg, "subjectQuestion", Result.class);
 		List<Result> result = groupResults.getMappedResults();
 		return result;
 	}
@@ -58,19 +53,42 @@ public class QuestionDAO {
 	}
 
 	public List<UnitQuestions> findQuestionByUnitId(String unitId){
+		Aggregation agg = newAggregation(match(new Criteria("unit").is(unitId)));
+		AggregationResults<UnitQuestions> groupResults = mongoTemplate.aggregate(agg, "unitQuestion", UnitQuestions.class);
+		List<UnitQuestions> result = groupResults.getMappedResults();
+		return result;
+	}
+	
+	@Async
+	@Scheduled(fixedRate = 60000 * 30)
+	public void genSubjectQuestionCollection() {
+		String merge = "{$merge: { into: \"subjectQuestion\", whenMatched: \"replace\", whenNotMatched: \"insert\" }}";
+		Aggregation agg = newAggregation(
+				lookup("unit", "knowledge", "knowledge", "units"),
+				unwind("units"),
+				sort(Sort.Direction.ASC, "_id").and(Sort.Direction.DESC, "units.order"),
+				group("_id").first("units.subject").as("subject").first("difficult").as("difficult").first("units._id").as("unit"),
+				group("unit").first("subject").as("subject").count().as("total"),
+				new CustomProjectAggregationOperation(merge)
+				);
+		mongoTemplate.aggregate(agg, Question.class, Result.class);
+	}
+	
+	@Async
+	@Scheduled(fixedRate = 60000 * 30)
+	public void genUnitQuestionCollection(){
 		String group = "{$group: { _id: { unit: \"$unit\", difficult: \"$difficult\"}, items: {$addToSet: \"$_id\"}}}";
-		String project = "{$project: { \"_id\": 0, difficult: \"$_id.difficult\", items: \"$items\"}}";
+		String project = "{$project: { \"_id\": 0, unit: \"$_id.unit\", difficult: \"$_id.difficult\", items: \"$items\"}}";
+		String merge = "{$merge: { into: \"unitQuestion\", whenMatched: \"replace\", whenNotMatched: \"insert\" }}";
 		Aggregation agg = newAggregation(
 				lookup("unit", "knowledge", "knowledge", "units"),
 				unwind("units"),
 				sort(Sort.Direction.ASC, "_id").and(Sort.Direction.DESC, "units.order"),
 				group("_id").first("difficult").as("difficult").first("units._id").as("unit"),
-				match(new Criteria("unit").is(unitId)),
 				new CustomProjectAggregationOperation(group),
-				new CustomProjectAggregationOperation(project)
+				new CustomProjectAggregationOperation(project),
+				new CustomProjectAggregationOperation(merge)
 				);
-		AggregationResults<UnitQuestions> groupResults = mongoTemplate.aggregate(agg, Question.class, UnitQuestions.class);
-		List<UnitQuestions> result = groupResults.getMappedResults();
-		return result;
+		mongoTemplate.aggregate(agg, Question.class, UnitQuestions.class);
 	}
 }
