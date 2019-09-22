@@ -47,4 +47,11 @@ public class ApiController {
 		LOGGER.info(LOGGER_HEADER, "Fetch the number of difficult question by subject id, subjectId: " + subjectId);
 		return questionService.findQuestionDifficultBySubjectId(subjectId);
 	}
+
+	@GetMapping("/generation_questions/{unitId}/{nums}")
+	public List<String> genQuestion(@PathVariable(value = "unitId") String unitId,
+			@PathVariable(value = "nums") Integer nums) {
+		LOGGER.info(LOGGER_HEADER, "Generate number of the Questions by unit id, unitId: " + unitId + ", nums: " + nums);
+		return questionService.genQuestion(unitId, nums);
+	}
 }

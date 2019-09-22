@@ -19,6 +19,7 @@ import org.springframework.stereotype.Repository;
 
 import com.jazz321254.mongo.dto.QuestionResult;
 import com.jazz321254.mongo.dto.Result;
+import com.jazz321254.mongo.dto.UnitQuestions;
 import com.jazz321254.mongo.model.Question;
 import com.jazz321254.mongo.tools.CustomProjectAggregationOperation;
 
@@ -53,6 +54,23 @@ public class QuestionDAO {
 				new CustomProjectAggregationOperation(group));
 		AggregationResults<QuestionResult> groupResults = mongoTemplate.aggregate(agg, Question.class, QuestionResult.class);
 		List<QuestionResult> result = groupResults.getMappedResults();
+		return result;
+	}
+
+	public List<UnitQuestions> findQuestionByUnitId(String unitId){
+		String group = "{$group: { _id: { unit: \"$unit\", difficult: \"$difficult\"}, items: {$addToSet: \"$_id\"}}}";
+		String project = "{$project: { \"_id\": 0, difficult: \"$_id.difficult\", items: \"$items\"}}";
+		Aggregation agg = newAggregation(
+				lookup("unit", "knowledge", "knowledge", "units"),
+				unwind("units"),
+				sort(Sort.Direction.ASC, "_id").and(Sort.Direction.DESC, "units.order"),
+				group("_id").first("difficult").as("difficult").first("units._id").as("unit"),
+				match(new Criteria("unit").is(unitId)),
+				new CustomProjectAggregationOperation(group),
+				new CustomProjectAggregationOperation(project)
+				);
+		AggregationResults<UnitQuestions> groupResults = mongoTemplate.aggregate(agg, Question.class, UnitQuestions.class);
+		List<UnitQuestions> result = groupResults.getMappedResults();
 		return result;
 	}
 }

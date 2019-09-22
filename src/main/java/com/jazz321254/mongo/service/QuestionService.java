@@ -10,4 +10,7 @@ public interface QuestionService {
 	List<Result> findUnitQuestionBySubjectId(String subjectId);
 
 	List<QuestionResult> findQuestionDifficultBySubjectId(String subjectId);
+
+	List<String> genQuestion(String unitId, Integer nums);
+
 }
