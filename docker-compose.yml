@@ -1,0 +1,27 @@
+version: '3'
+services:
+  mongo:
+    image: mongo:latest
+    ports:
+      - 27017:27017
+    networks:
+      - network
+
+  mongo_seed:
+    image: mongo:latest
+    volumes:
+      - ./test_data:/test_data
+    command:
+      /test_data/import.sh
+    networks:
+      - network
+
+  app:
+    image: jazz321254/mongo-app
+    ports:
+      - 8080:8080
+    networks:
+      - network
+
+networks:
+  network:
